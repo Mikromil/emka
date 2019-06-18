@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/Mikromil.svg
+  logo_image: /images/Mikromil240px.png
   logo_width: 120
 
 menu_settings:
