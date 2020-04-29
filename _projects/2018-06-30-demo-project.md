@@ -3,10 +3,10 @@ title: 'Demo Project'
 subtitle: 'To jest zabawa ;)'
 date: 2020-06-04-29 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/Caballo.jpeg'
+featured_image: '/images/demo/CaballoBlack.jpeg'
 ---
 
-![](/images/demo/Caballo.jpeg)
+![](/images/demo/CaballoBlack.jpeg)
 
 ## Demo content
 
