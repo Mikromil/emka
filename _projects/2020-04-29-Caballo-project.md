@@ -1,6 +1,6 @@
 ---
-title: 'Mikromił v.01'
-subtitle: 'Caballo'
+title: 'Caballo'
+subtitle: 'by Mikromił'
 date: 2020-04-29 14:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/Caballo.jpeg'
@@ -8,31 +8,7 @@ featured_image: '/images/demo/Caballo.jpeg'
 
 ![](/images/demo/Caballo.jpeg)
 
-## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
 
 | Item                 | Author        | Supports tables? | Price |
 |----------------------|---------------|------------------|-------|
@@ -49,9 +25,9 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/demo/Koziol.jpeg">
+	<img src="/images/demo/Caballo.jpeg">
+	<img src="/images/demo/CaballoBlack.jpeg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
