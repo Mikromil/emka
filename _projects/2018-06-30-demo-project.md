@@ -1,9 +1,9 @@
 ---
 title: 'Demo Project'
 subtitle: 'To jest zabawa ;)'
-date: 2019-06-17 00:00:00
+date: 2020-06-04-29 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/jeżyna.jpg'
+featured_image: '/images/demo/demo-landscape.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
