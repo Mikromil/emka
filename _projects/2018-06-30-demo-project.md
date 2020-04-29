@@ -36,7 +36,7 @@ The theme also supports markdown tables:
 
 | Item                 | Author        | Supports tables? | Price |
 |----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
+| Kozica               | Mikromił      | Yes              | $39   |
 | Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
 | Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
 
