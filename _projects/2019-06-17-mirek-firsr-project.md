@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-portrait.jpg'
 ---
 
-![](/images/demo/Piękne zdjęcie kwitnącej jeżyny.jpg)
+![](/images/demo/demo-portrait.jpg)
 
 ## Demo content
 
