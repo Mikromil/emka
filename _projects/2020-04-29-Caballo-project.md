@@ -12,11 +12,8 @@ featured_image: '/images/demo/Caballo.jpeg'
 
 | Item                 | Author        | Supports tables? | Price |
 |----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
+| Caballo.             | Mikromił      | Yes              | $39   |
 
-You can throw in some horizontal rules too:
 
 ---
 
@@ -55,8 +52,8 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/demo/Caballo.jpeg">
+	<img src="/images/demo/CaballoBlack.jpeg">
 </div>
 
 ### What about videos?
