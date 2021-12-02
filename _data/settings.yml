@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/MIKROMIŁ.svg
-  logo_width: 186
+  logo_width: 500
 
 menu_settings:
   menu_items:
