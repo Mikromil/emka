@@ -19,7 +19,7 @@ menu_settings:
 
 footer_settings:
   logo_image: /images/MIKROMIŁLOGO.svg
-  logo_width: 186
+  logo_width: 86
   footer_tagline: Teatr Cieni
 
 grid_settings:
